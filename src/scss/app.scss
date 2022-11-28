@@ -19,7 +19,7 @@ html {
   background: $background;
 }
 
-section .hero {
+.hero {
   height: 350px;
 }
 
@@ -29,9 +29,6 @@ section .hero {
 
 .button {
   padding: 20px 40px;
-}
-
-button .button {
   margin-left: 5px;
 }
 
